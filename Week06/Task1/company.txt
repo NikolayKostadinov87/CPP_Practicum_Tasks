@@ -1,0 +1,4 @@
+20
+2
+Name -> Nikolay Kostadinov, Salary -> 5500 , Age -> 20
+Name -> Emil Tsanev, Salary -> 5500 , Age -> 20
